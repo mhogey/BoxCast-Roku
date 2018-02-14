@@ -1,7 +1,7 @@
 Function BoxCastConfig() As Object
   this = {
     ' Edit for your application
-    channelId: ""
+    channelId: "y5zbebqr8q56bxotsrkc"
     hostNameForAnalytics: "BoxCast.tv for Roku"
 
     ' Can leave as default
